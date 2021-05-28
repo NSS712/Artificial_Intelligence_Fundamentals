@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "αβ剪枝", "αβ剪枝.vcxproj", "{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Debug|x64.ActiveCfg = Debug|x64
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Debug|x64.Build.0 = Debug|x64
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Debug|x86.ActiveCfg = Debug|Win32
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Debug|x86.Build.0 = Debug|Win32
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Release|x64.ActiveCfg = Release|x64
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Release|x64.Build.0 = Release|x64
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Release|x86.ActiveCfg = Release|Win32
+		{469BB5E2-BCEC-4A46-9E4B-D11A3E58D45E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7624529B-59ED-4323-A068-9401C98D54C9}
+	EndGlobalSection
+EndGlobal
