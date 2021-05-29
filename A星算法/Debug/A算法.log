@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\code_temp\A算法\main.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
-D:\code_temp\A算法\main.cpp(34,21): warning C4018: “<”: 有符号/无符号不匹配
-  A算法.vcxproj -> D:\code_temp\A算法\Debug\A算法.exe
