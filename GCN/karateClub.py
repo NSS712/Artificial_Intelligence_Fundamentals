@@ -100,11 +100,6 @@ class GCNLayer(nn.Module):
         #····················补全此处代码················
 
 
-
-        
-        return self.linear(h)
-
-
 class GCN(nn.Module):
     def __init__(self, in_feats, hidden_size, num_classes):
         super(GCN, self).__init__()
